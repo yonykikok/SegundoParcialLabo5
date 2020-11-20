@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica pre parcial</string>
+    <string name="titulo">Registro de Usuario</string>
+    <string name="subTitulo">Bienvenido a la primer aplicacion Buffet-UTN</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="labelUsuario">Ingrese su usuario</string>
+    <string name="labelNumero">Ingrese su numero</string>
+</resources>
